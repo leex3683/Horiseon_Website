@@ -1,1 +1,37 @@
-# Code Refactor Starter Code
+#Horiseon Website
+
+## Description
+
+This website was created to make information about this company available online. Contained in the website is Information about Horiseons products and services, as well as intuition behind why one would want to do business with Horiseon.
+
+## Installation
+
+N/A
+
+## Usage
+
+The navigation bar in the header of the website has links that lead to the corresponding sections in the body.  To learn about what products and services Horiseon provides, click these links, and read about our Search Engine Optimization, Online Reputation Management, and Social Media Marketing.  
+
+## Credits
+
+N/A
+
+## License
+
+N/A
+
+## Badges
+
+N/A
+
+## Features
+
+N/A
+
+## How to Contribute
+
+N/A
+
+## Tests
+
+N/A
