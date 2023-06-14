@@ -2,7 +2,7 @@
 
 ## Description
 
-This website was created to make information about this company available online. Contained in the website is Information about Horiseons products and services, as well as intuition behind why one would want to do business with Horiseon.
+This website was created to make information about this company available online. Contained in the website is information about Horiseon's products and services, as well as intuition behind why one would want to do business with Horiseon.
 
 ## Installation
 
