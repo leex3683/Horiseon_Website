@@ -6,8 +6,8 @@ This website was created to make information about this company available online
 
 [Horiseon Website Direct Link](https://leex3683.github.io/Horiseon_Website/)
 
-![Horiseon Website screenshot](./assets/Images/ScreenShot1.png)
-![Horiseon Website screenshot](./assets/Images/ScreenShot2.png)
+![Horiseon Website screenshot](https://github.com/leex3683/Horiseon_Website/blob/main/assets/images/ScreenShot1.png)
+![Horiseon Website screenshot](https://github.com/leex3683/Horiseon_Website/blob/main/assets/images/ScreenShot2.png)
 ## Installation
 
 N/A
